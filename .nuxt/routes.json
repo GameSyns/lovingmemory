@@ -3,35 +3,30 @@
     "name": "donation",
     "path": "/donation",
     "component": "F:\\\\joshc\\\\Documents\\\\GitHub\\\\lovingmemory\\\\pages\\\\donation.vue",
-    "chunkName": "pages/donation",
-    "_name": "_336f34c2"
+    "chunkName": "pages/donation"
   },
   {
     "name": "gallery",
     "path": "/gallery",
     "component": "F:\\\\joshc\\\\Documents\\\\GitHub\\\\lovingmemory\\\\pages\\\\gallery.vue",
-    "chunkName": "pages/gallery",
-    "_name": "_6ef74a52"
+    "chunkName": "pages/gallery"
   },
   {
     "name": "live-stream",
     "path": "/live-stream",
     "component": "F:\\\\joshc\\\\Documents\\\\GitHub\\\\lovingmemory\\\\pages\\\\live-stream.vue",
-    "chunkName": "pages/live-stream",
-    "_name": "_e3ced1fe"
+    "chunkName": "pages/live-stream"
   },
   {
     "name": "order-of-service",
     "path": "/order-of-service",
     "component": "F:\\\\joshc\\\\Documents\\\\GitHub\\\\lovingmemory\\\\pages\\\\order-of-service.vue",
-    "chunkName": "pages/order-of-service",
-    "_name": "_016807ce"
+    "chunkName": "pages/order-of-service"
   },
   {
     "name": "index",
     "path": "/",
     "component": "F:\\\\joshc\\\\Documents\\\\GitHub\\\\lovingmemory\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_3c7875d2"
+    "chunkName": "pages/index"
   }
 ]

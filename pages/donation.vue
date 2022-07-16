@@ -12,9 +12,9 @@
       </p>
       <a class="button" target="_blank" rel=”noopener” href="https://www.gofundme.com/f/joey-mendoza-memorial-fund">Donate to the Joey Mendoza Memorial Fund</a>
 	  <h2>Submit Photos and Videos</h2>
-      <p>If you'd like to submit photos, videos, or stories of Joey, please click the link below or email: joeymendozamemorial@gmail.com.
+      <p>If you'd like to submit photos, videos, or stories of Joey, please click the link below or email: joeymendozamemorial@gmail.com
       </p>
-      <a class="button" target="_blank" rel=”noopener” href="mailto:joeymendozamemorial@gmail.com">Donate to the Joey Mendoza Memorial Fund</a>
+      <a class="button" target="_blank" rel=”noopener” href="mailto:joeymendozamemorial@gmail.com">Submit Photos and Videos</a>
       <!-- CONTENT END -->
     </div>
   </div>
